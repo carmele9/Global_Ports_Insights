@@ -2,6 +2,6 @@
 
 import numpy as np
 
-class KMeans():
+class KMeans_Manual():
     def __init__(self):
         self
